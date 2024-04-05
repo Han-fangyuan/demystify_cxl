@@ -1,5 +1,5 @@
-export CLOSEST_CORE=0
-export CLOSEST_NODE=0
+export CLOSEST_CORE=12
+export CLOSEST_NODE=1
 export NODE_MAX=2
 export TSC_FREQ=2100
 
