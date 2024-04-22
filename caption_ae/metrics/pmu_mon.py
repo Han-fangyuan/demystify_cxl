@@ -53,7 +53,6 @@ class pmu_metric:
         print("[RETURN] Output:", out)
 
 
-
     def start_recording(self, filename:str = "pmu_result.csv") -> None:
 
         # define the SIGINT handler

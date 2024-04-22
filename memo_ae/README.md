@@ -33,7 +33,7 @@ bash get_turbostat.sh
 vim ../util_scripts/env.sh
 ```
 
-1. Set `CLOSEST_NODE`: The NUMA node that the CXL device is directly attached to.
+1. Set `CLOSEST_NODE`: The NUMA node that the CXL device is directly attached t1.
     * Command `sudo lspci -vvv` should also show the NUMA node that a CXL device attaches to.
 2. Set `CLOSEST_CORE`: This is one of the CPU cores within CLOSEST NODE
     * Place the first core number of the `CLOSEST_NODE` in `CLOSEST_CORE`. You may find the core range of a NUMA node using this command: `numactl -H`.

@@ -17,3 +17,24 @@
 162.5
 163.6
 163.7
+
+
+[TEST] test 0, iteration 500......2.9
+[TEST] test 1, iteration 250......2.6
+[TEST] test 2, iteration 250......2.4
+[TEST] test 3, iteration 250......2.4
+[TEST] test 4, iteration 125......7.3
+[TEST] test 5, iteration 125......7.2
+[TEST] test 6, iteration 125......7.2
+[TEST] test 7, iteration 62......7.4
+[TEST] test 8, iteration 62......7.3
+[TEST] test 9, iteration 62......17.4
+[TEST] test 10, iteration 31......35.6
+[TEST] test 11, iteration 31......35.2
+[TEST] test 12, iteration 31......36.7
+[TEST] test 13, iteration 15......81.4
+[TEST] test 14, iteration 15......141.1
+[TEST] test 15, iteration 15......157.6
+[TEST] test 16, iteration 7......162.5
+[TEST] test 17, iteration 7......163.6
+[TEST] test 18, iteration 7......163.7

@@ -17,7 +17,7 @@ test_single_op_lats() {
 
             LATS=`echo $LINE | awk '{print $(NF-2)}' | grep -Eo '[+-]?[0-9]+([.][0-9]+)?'`
             echo $LATS >> $CURR_RESULT_PATH/single_op_lats_n${k}.txt
-            echo $LATS
+           0, echo $LATS
         done
     done
 }
